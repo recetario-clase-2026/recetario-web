@@ -1,14 +1,14 @@
 # Bizcocho Chocolate
 ## Ingredientes
 - 200 g de harina de trigo
--200 g de azúcar
--75 g de cacao en polvo sin azúcar
--3 huevos
--100 ml de aceite vegetal (o 120 g de mantequilla derretida)
--150 ml de leche
--1 sobre (16 g) de levadura química (tipo Royal)
--1 pizca de sal
--1 cucharadita de esencia de vainilla (opcional)
+- 200 g de azúcar
+- 75 g de cacao en polvo sin azúcar
+- 3 huevos
+- 100 ml de aceite vegetal (o 120 g de mantequilla derretida)
+- 150 ml de leche
+- 1 sobre (16 g) de levadura química (tipo Royal)
+- 1 pizca de sal
+- 1 cucharadita de esencia de vainilla (opcional)
   
 ## Preparación
 1. Precalienta el horno a 180 °C (arriba y abajo).
