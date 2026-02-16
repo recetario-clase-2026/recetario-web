@@ -1,4 +1,4 @@
-# Nombre de la Receta
+# Croquetas
 ## Ingredientes
 - Ingredientes (4 personas aprox.)
 - 100 g de jamón serrano muy picado
